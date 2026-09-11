@@ -238,3 +238,6 @@ This repository serves as the official landing page for InnoExtractor. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of InnoExtractor today!**
+
+---
+**Last updated:** 2026-09-11 19:33:07 UTC
