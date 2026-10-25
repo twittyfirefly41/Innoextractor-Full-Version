@@ -240,4 +240,4 @@ This repository serves as the official landing page for InnoExtractor. The softw
 **Get the most recent version of InnoExtractor today!**
 
 ---
-**Last updated:** 2026-10-25 14:11:10 UTC
+**Last updated:** 2026-10-25 18:16:35 UTC
